@@ -55,8 +55,8 @@ int main() {
                 printf("This month has 29 days.");
             }
             else {
-                printf("This month has 28 days.");
                 // Si el año no es bisiesto se imprime que el mes tiene 28 dias.
+                printf("This month has 28 days.");
             }
             break;
 
